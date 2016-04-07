@@ -1,0 +1,29 @@
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "COm-hg-Y7d"; */
+"COm-hg-Y7d.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "IhD-tP-umf"; */
+"IhD-tP-umf.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "Iqg-47-C72"; */
+"Iqg-47-C72.text" = "用户名";
+
+/* Class = "UITextField"; placeholder = "账号"; ObjectID = "LK3-FS-thz"; */
+"LK3-FS-thz.placeholder" = "账号";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "Nuz-MR-dzk"; */
+"Nuz-MR-dzk.title" = "我们";
+
+/* Class = "UIBarButtonItem"; title = "注销"; ObjectID = "jP7-Ov-xdd"; */
+"jP7-Ov-xdd.title" = "注销";
+
+/* Class = "UIBarButtonItem"; title = "登录"; ObjectID = "r3W-2B-eRH"; */
+"r3W-2B-eRH.title" = "登录";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "r7e-Fu-Yk2"; */
+"r7e-Fu-Yk2.title" = "更多";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "so4-Lq-Bye"; */
+"so4-Lq-Bye.text" = "标题";
+
+/* Class = "UIButton"; normalTitle = "随便看看"; ObjectID = "xWy-sU-wIh"; */
+"xWy-sU-wIh.normalTitle" = "随便看看";

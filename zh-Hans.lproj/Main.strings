@@ -1,0 +1,93 @@
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "4lY-PI-Flx"; */
+"4lY-PI-Flx.normalTitle" = "否";
+
+/* Class = "UITableViewController"; title = "AddViewController"; ObjectID = "5Uf-dm-Uyi"; */
+"5Uf-dm-Uyi.title" = "AddViewController";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "07t-cP-AkB"; */
+"07t-cP-AkB.text" = "类别";
+
+/* Class = "UILabel"; text = "Field"; ObjectID = "8uo-mA-9y9"; */
+"8uo-mA-9y9.text" = "项目";
+
+/* Class = "UITextField"; placeholder = "FoodForYou Phone Number"; ObjectID = "79I-ez-OM9"; */
+"79I-ez-OM9.placeholder" = "联系电话";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "CKD-pj-2eS"; */
+"CKD-pj-2eS.text" = "名字";
+
+/* Class = "UITextField"; placeholder = "FoodForYou Type"; ObjectID = "EQN-bd-Z20"; */
+"EQN-bd-Z20.placeholder" = "类别";
+
+/* Class = "UITableViewController"; title = "FavoriteViewController"; ObjectID = "FlS-Zx-88c"; */
+"FlS-Zx-88c.title" = "FavoriteViewController";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hp4-fi-a91"; */
+"Hp4-fi-a91.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Personalize"; ObjectID = "K1R-36-JJJ"; */
+"K1R-36-JJJ.text" = "私人";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "LSP-aw-wbc"; */
+"LSP-aw-wbc.normalTitle" = "下页";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "MOl-UT-b4V"; */
+"MOl-UT-b4V.title" = "项目";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "MaM-KG-WSB"; */
+"MaM-KG-WSB.text" = "描述";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "O6n-54-ixU"; */
+"O6n-54-ixU.text" = "日期";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "OrA-VR-68V"; */
+"OrA-VR-68V.title" = "项目";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "VC4-sW-ZTU"; */
+"VC4-sW-ZTU.title" = "最爱";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "Y6B-OE-Hjb"; */
+"Y6B-OE-Hjb.text" = "Value";
+
+/* Class = "UIViewController"; title = "Map View"; ObjectID = "bE9-5K-WuY"; */
+"bE9-5K-WuY.title" = "Map View";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "ba2-T1-cyN"; */
+"ba2-T1-cyN.text" = "地址";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "byg-Kx-lBp"; */
+"byg-Kx-lBp.text" = "类别";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "giC-4Q-xBK"; */
+"giC-4Q-xBK.text" = "名字";
+
+/* Class = "UITextField"; placeholder = "FoodForYou Location"; ObjectID = "jA9-aa-KB9"; */
+"jA9-aa-KB9.placeholder" = "地址";
+
+/* Class = "UIViewController"; title = "DetailViewController"; ObjectID = "kgo-Tw-eIP"; */
+"kgo-Tw-eIP.title" = "DetailViewController";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "lAr-9R-5nw"; */
+"lAr-9R-5nw.text" = "联系电话";
+
+/* Class = "UITextField"; placeholder = "FoodForYou Name"; ObjectID = "lAy-P6-Uil"; */
+"lAy-P6-Uil.placeholder" = "名字";
+
+/* Class = "UILabel"; text = "Will you come here next time ?"; ObjectID = "lbp-cG-m6k"; */
+"lbp-cG-m6k.text" = "亲，点个赞吧！";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pp3-BU-KfE"; */
+"pp3-BU-KfE.text" = "标题";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "rTq-F0-QPs"; */
+"rTq-F0-QPs.text" = "地址";
+
+/* Class = "UINavigationController"; title = "NavigationController"; ObjectID = "rW1-7D-n7t"; */
+"rW1-7D-n7t.title" = "NavigationController";
+
+/* Class = "UILabel"; text = "Have you been here?"; ObjectID = "vA6-YA-4OC"; */
+"vA6-YA-4OC.text" = "来过？";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "xmr-2L-3yn"; */
+"xmr-2L-3yn.normalTitle" = "是";
+

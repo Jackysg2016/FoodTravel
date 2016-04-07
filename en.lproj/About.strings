@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "COm-hg-Y7d"; */
+"COm-hg-Y7d.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "IhD-tP-umf"; */
+"IhD-tP-umf.placeholder" = "Paaword";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "Iqg-47-C72"; */
+"Iqg-47-C72.text" = "Nickname";
+
+/* Class = "UITextField"; placeholder = "账号"; ObjectID = "LK3-FS-thz"; */
+"LK3-FS-thz.placeholder" = "Username";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "Nuz-MR-dzk"; */
+"Nuz-MR-dzk.title" = "About";
+
+/* Class = "UIBarButtonItem"; title = "注销"; ObjectID = "jP7-Ov-xdd"; */
+"jP7-Ov-xdd.title" = "Logout";
+
+/* Class = "UIBarButtonItem"; title = "登录"; ObjectID = "r3W-2B-eRH"; */
+"r3W-2B-eRH.title" = "Login";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "r7e-Fu-Yk2"; */
+"r7e-Fu-Yk2.title" = "More";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "so4-Lq-Bye"; */
+"so4-Lq-Bye.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "随便看看"; ObjectID = "xWy-sU-wIh"; */
+"xWy-sU-wIh.normalTitle" = "Visiting";

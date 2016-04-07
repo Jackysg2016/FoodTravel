@@ -1,0 +1,40 @@
+
+/* Class = "UITextField"; placeholder = "账号"; ObjectID = "8Mf-Ca-gMU"; */
+"8Mf-Ca-gMU.placeholder" = "账号";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "DFK-Dx-w0J"; */
+"DFK-Dx-w0J.placeholder" = "密码";
+
+/* Class = "UIButton"; normalTitle = "随便看看"; ObjectID = "GVR-x1-nqJ"; */
+"GVR-x1-nqJ.normalTitle" = "随便看看";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "Jc0-AJ-PMT"; */
+"Jc0-AJ-PMT.normalTitle" = "登录";
+
+/* Class = "UINavigationItem"; title = "孤独的美食家"; ObjectID = "Pag-E5-0t4"; */
+"Pag-E5-0t4.title" = "孤独的美食家";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "PpJ-b4-FJO"; */
+"PpJ-b4-FJO.title" = "发现";
+
+/* Class = "UILabel"; text = "Loction"; ObjectID = "acg-Os-FjF"; */
+"acg-Os-FjF.text" = "地址";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gY0-iY-JOF"; */
+"gY0-iY-JOF.text" = "名字";
+
+/* Class = "UINavigationItem"; title = "孤独的美食家"; ObjectID = "m7B-RP-rvv"; */
+"m7B-RP-rvv.title" = "孤独的美食家";
+
+/* Class = "UILabel"; text = "天气"; ObjectID = "mYM-LR-wM7"; */
+"mYM-LR-wM7.text" = "天气";
+
+/* Class = "UILabel"; text = "城市"; ObjectID = "ovE-yq-hPB"; */
+"ovE-yq-hPB.text" = "城市";
+
+/* Class = "UILabel"; text = "温度"; ObjectID = "pdv-tr-CQW"; */
+"pdv-tr-CQW.text" = "温度";
+
+/* Class = "UIBarButtonItem"; title = "℃"; ObjectID = "tfL-dy-Lzd"; */
+"tfL-dy-Lzd.title" = "℃";
+
